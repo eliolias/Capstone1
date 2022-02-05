@@ -9,3 +9,6 @@ Use the package manager to install required packages
 
 ## Usage
 Input origin, destination, and name the route to save a personalized route with a very brief summary attached.
+
+## Status
+Need to revisit, may or may not be in working order
