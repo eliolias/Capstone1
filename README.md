@@ -1,5 +1,5 @@
 # Route Creator
-Route Creator is a website to create,save, and delete personalized routes.
+Route Creator is a CRUD website for personalized routes.
 
 ## Requirements
 Use the package manager to install required packages
